@@ -30,7 +30,7 @@ export default function Home() {
   const router = useRouter();
 
   const handleLogin = () => {
-    if (username === "usuario" && password === "senha") {
+    if (username === "usuario" && password === "12345") {
       router.push("/content");
     } else {
       alert("Nome de usuário ou senha incorretos");
@@ -38,7 +38,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex flex-col items-center w-full h-screen px-10 lg:px-28 py-4 md:py-8 lg:py-16 bg-baseWhite">
+    <main className="flex flex-col items-center w-full h-screen px-10 lg:px-28 py-4 md:py-8 lg:py-8 bg-baseWhite">
       <div className="w-full flex justify-start">
         <Image
           src="/img/logo-sabidin-horizontal.svg"

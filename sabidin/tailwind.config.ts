@@ -21,6 +21,10 @@ const config: Config = {
       fontFamily: {
         sora: ['Sora', 'sans-serif'],
       },
+      letterSpacing: {
+        'tighter-0.8': '-0.08em',
+        'extra-wide': '0.67em'
+      },
     },
   },
   darkMode: "class",
