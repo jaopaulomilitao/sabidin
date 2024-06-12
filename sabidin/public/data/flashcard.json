@@ -1,0 +1,54 @@
+
+[
+    {
+      "title": "O Conceito de Dinheiro",
+      "backText": "Dinheiro é um meio de troca aceito pela sociedade para a compra de bens e serviços, representado por moedas e notas de valor definido.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-1.svg"
+    },
+    {
+      "title": "Função das Moedas",
+      "backText": "Moedas são unidades menores de dinheiro, geralmente utilizadas para transações de menor valor, como comprar balas ou figurinhas.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-2.svg"
+    },
+    {
+      "title": "Importância das Notas",
+      "backText": "As notas são valores maiores de dinheiro, permitindo transações de valor significativo, como comprar roupas, eletrônicos ou até mesmo pagar contas maiores.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-3.svg"
+    },
+    {
+      "title": "Trocas e Comércio",
+      "backText": "Dinheiro facilita as trocas e o comércio, sendo um meio de facilitar transações entre diferentes pessoas, simplificando a complexidade das trocas diretas.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-4.svg"
+    },
+    {
+      "title": "Economia de Escala",
+      "backText": "O dinheiro permite a acumulação e o armazenamento de valor, incentivando a poupança e o investimento para alcançar metas e objetivos futuros.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-5.svg"
+    },
+    {
+      "title": "Dinheiro como Medida de Valor",
+      "backText": "Além de servir como meio de troca, o dinheiro atua como uma medida de valor, permitindo a avaliação e a comparação de diferentes bens e serviços.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-6.svg"
+    },
+    {
+      "title": "Dinheiro e Eficiência Econômica",
+      "backText": "A existência de um sistema monetário eficiente promove a eficiência econômica, facilitando a alocação de recursos e estimulando o crescimento econômico.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-7.svg"
+    },
+    {
+      "title": "Papel do Banco Central",
+      "backText": "O Banco Central é responsável por regular a oferta de dinheiro na economia, garantindo sua estabilidade e confiança, através de políticas monetárias.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-8.svg"
+    },
+    {
+      "title": "Globalização Financeira",
+      "backText": "Com o avanço da tecnologia, o dinheiro agora pode ser transferido eletronicamente em nível global, promovendo a integração financeira e comercial entre diferentes países.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-9.svg"
+    },
+    {
+      "title": "Educação Financeira",
+      "backText": "Compreender o papel e o funcionamento do dinheiro é fundamental para promover uma educação financeira sólida, capacitando indivíduos a fazerem escolhas financeiras inteligentes e conscientes ao longo da vida.",
+      "imageSrc": "/img/flashcard/imagem-flashcard-10.svg"
+    }
+  ]
+  

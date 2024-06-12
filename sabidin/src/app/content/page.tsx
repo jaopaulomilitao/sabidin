@@ -5,6 +5,7 @@ import { Input } from "@nextui-org/react";
 import { Button } from "@nextui-org/button";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import NavBar from "@/components/NavBar/NavBar";
 
 export default function Content() {
   const router = useRouter();
@@ -15,6 +16,7 @@ export default function Content() {
 
   return (
     <main className="flex flex-col items-center w-full h-screen px-10 lg:px-28 py-4 md:py-8 lg:py-8 bg-baseWhite">
+      <NavBar></NavBar>
       <div className="w-full flex justify-start">
         <Image
           src="/img/logo-sabidin-horizontal.svg"
@@ -29,7 +31,7 @@ export default function Content() {
         style={{ width: "494px", height: "719px", margin: "24px 55px" }}
       >
         <div className="flex flex-col gap-4 items-center bg-white p-4">
-        <p className="font-bold text-baseYellow  tracking-wider text-lg">
+          <p className="font-bold text-baseYellow  tracking-wider text-lg">
             MÓDULO 1
           </p>
 
