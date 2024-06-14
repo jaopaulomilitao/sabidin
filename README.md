@@ -114,10 +114,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autores
 <table>
   <tr>
-    <td align="center"><a href="//www.linkedin.com/in/costairis/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69826078?v=4" width="100px;" alt=""/><br /><sub><b>Íris Costa</b></sub></a><br />🖱
-    <td align="center"><a href="https://github.com/jaopaulomilitao"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/143536750?v=4" width="100px;" alt=""/><br /><sub><b>João Paulo Militão</b></sub></a><br />🖱
-    <td align="center"><a href="https://github.com/pauloherbt"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101981462?v=4" width="100px;" alt=""/><br /><sub><b>Paulo Herbert</b></sub></a><br />🖱
-    <td align="center"><a href="https://github.com/enzoboto1"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/118773125?v=4" width="100px;" alt=""/><br /><sub><b>Enzo Boto</b></sub></a><br />🖱
+    <td align="center"><a href="https://github.com/jaopaulomilitao"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/143536750?v=4" width="100px;" alt=""/><br /><sub><b>João Paulo Militão  </b></sub></a></br> Product Owner<br />🕵🏻‍♀️
+    <td align="center"><a href="//www.linkedin.com/in/costairis/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69826078?v=4" width="100px;" alt=""/><br /><sub><b>Íris Costa </b></sub></a></br> Developer<br />👩🏻‍💻
+    <td align="center"><a href="https://github.com/pauloherbt"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101981462?v=4" width="100px;" alt=""/><br /><sub><b>Paulo Herbert </b></sub></a></br> Developer<br />🧑🏻‍💻
+    <td align="center"><a href="https://github.com/enzoboto1"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/118773125?v=4" width="100px;" alt=""/><br /><sub><b>Enzo Boto </b></sub></a></br> Scrum Master<br />💻
   </tr>
 </table>
 
